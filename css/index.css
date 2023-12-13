@@ -3,3 +3,17 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+h1{
+  color: purple;
+  text-align: center;
+}
+
+p{
+  background-color: grey;
+  color: black;
+  width: 200px;
+  margin: 50px auto;
+  padding: 10px;
+  border-radius: 5px;
+}
